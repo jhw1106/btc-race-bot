@@ -1,5 +1,7 @@
 # BTC Mean-Reversion Bot
 
+[![make.fun](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603) [![rank](https://make.fun/badge/btc-race-24h-20261117-0603/jhw1106/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603) [![reward](https://make.fun/badge/btc-race-24h-20261117-0603/jhw1106/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+
 A trading bot for the make.fun "Race a BTC trading bot live for 24 hours"
 competition. It trades Coinbase Wrapped BTC (cbBTC) against USDC on
 1-minute bars, long only, starting from 1,000 USDC of paper money.
